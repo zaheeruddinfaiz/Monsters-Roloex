@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b688ac5520d160f8813402750660debd",
+    "revision": "ce5c291ce1e0d5be29facd0249f51a63",
     "url": "/Monsters-Roloex/index.html"
   },
   {
-    "revision": "8e360c65482b749417a6",
+    "revision": "fc4583930ee81ca90065",
     "url": "/Monsters-Roloex/static/css/main.376e77cd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Monsters-Roloex/static/js/2.83e9e59f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8e360c65482b749417a6",
-    "url": "/Monsters-Roloex/static/js/main.e7056f9f.chunk.js"
+    "revision": "fc4583930ee81ca90065",
+    "url": "/Monsters-Roloex/static/js/main.e4dce2ec.chunk.js"
   },
   {
     "revision": "9f526e64c0c6fb2670cc",
